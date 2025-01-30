@@ -667,7 +667,8 @@
     "criteria": {
       "cooked_mutton": "2025-01-26 19:30:52 +0000",
       "bread": "2025-01-26 19:01:46 +0000",
-      "golden_carrot": "2025-01-26 20:50:06 +0000"
+      "golden_carrot": "2025-01-26 20:50:06 +0000",
+      "cooked_chicken": "2025-01-30 03:33:50 +0000"
     },
     "done": false
   },
@@ -685,7 +686,8 @@
       "minecraft:wither_skeleton": "2025-01-26 20:38:34 +0000",
       "minecraft:enderman": "2025-01-26 19:45:52 +0000",
       "minecraft:zombie": "2025-01-26 19:08:58 +0000",
-      "minecraft:drowned": "2025-01-26 20:03:07 +0000"
+      "minecraft:drowned": "2025-01-26 20:03:07 +0000",
+      "minecraft:zombie_villager": "2025-01-30 03:41:48 +0000"
     },
     "done": false
   },
@@ -2543,9 +2545,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-01-30 03:36:51 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/food/breeding_bone": {
+    "criteria": {
+      "has_cooked_porkchop": "2025-01-30 03:35:07 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:dark_metallurgy": {
     "criteria": {
       "dark_metallurgy_0": "2025-01-30 03:26:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-01-30 03:36:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-01-30 03:36:51 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/food/sausage": {
+    "criteria": {
+      "has_cooked_porkchop": "2025-01-30 03:35:07 +0000"
     },
     "done": true
   },
