@@ -3606,3 +3606,8 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [30Jan2025 03:36:50.844] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [30Jan2025 03:41:50.831] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [30Jan2025 03:41:50.845] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jan2025 03:46:50.830] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jan2025 03:46:50.845] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jan2025 03:51:50.825] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jan2025 03:51:50.841] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jan2025 03:55:12.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja has reached the goal [Bone Crusher]
