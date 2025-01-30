@@ -563,6 +563,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-01-30 04:40:38 +0000",
       "bread": "2025-01-26 18:57:56 +0000",
       "golden_carrot": "2025-01-26 20:54:06 +0000"
     },
@@ -3296,6 +3297,12 @@
     },
     "done": true
   },
+  "doggytalents:recipes/food/breeding_bone": {
+    "criteria": {
+      "has_cooked_porkchop": "2025-01-30 04:38:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2025-01-30 03:54:42 +0000"
@@ -3419,6 +3426,12 @@
   "tombstone:adventure/strong_or_careful": {
     "criteria": {
       "coded_trigger": "2025-01-30 04:29:56 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/food/sausage": {
+    "criteria": {
+      "has_cooked_porkchop": "2025-01-30 04:38:18 +0000"
     },
     "done": true
   },
