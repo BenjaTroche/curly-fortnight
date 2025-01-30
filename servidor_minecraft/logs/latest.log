@@ -224,3 +224,5 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [30Jan2025 03:23:18.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja has made the advancement [Junior Summoner]
 [30Jan2025 03:23:44.253] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Angela'/693, l='ServerLevel[world]', x=-922.70, y=66.00, z=166.36] died, message: 'Angela was slain by Husk'
 [30Jan2025 03:23:44.254] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Angela'/693, l='ServerLevel[world]', x=-922.70, y=66.00, z=166.36] died: Angela was slain by Husk
+[30Jan2025 03:26:33.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [Dark Metallurgy]
+[30Jan2025 03:31:10.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja: Teleported Meu_By to Benja]
