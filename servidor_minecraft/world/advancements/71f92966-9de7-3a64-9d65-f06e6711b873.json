@@ -1143,6 +1143,7 @@
       "minecraft:phantom": "2025-01-26 20:20:48 +0000",
       "minecraft:witch": "2025-01-26 19:44:00 +0000",
       "minecraft:wither_skeleton": "2025-01-26 20:19:53 +0000",
+      "minecraft:enderman": "2025-01-30 04:18:50 +0000",
       "minecraft:zombie": "2025-01-26 19:08:38 +0000"
     },
     "done": false
@@ -3385,6 +3386,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:exorcism": {
+    "criteria": {
+      "exorcism_0": "2025-01-30 04:31:14 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/copper_backpack": {
     "criteria": {
       "has_backpack": "2025-01-30 03:55:03 +0000"
@@ -3406,6 +3413,12 @@
   "minecraft:recipes/building_blocks/dye_green_carpet": {
     "criteria": {
       "has_needed_dye": "2025-01-30 03:25:27 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-01-30 04:29:56 +0000"
     },
     "done": true
   },

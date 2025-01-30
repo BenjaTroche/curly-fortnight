@@ -3621,3 +3621,21 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [30Jan2025 04:07:37.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja: Set the time to 1000]
 [30Jan2025 04:11:50.827] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [30Jan2025 04:11:50.842] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jan2025 04:16:50.833] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jan2025 04:16:50.847] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jan2025 04:21:50.825] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jan2025 04:21:50.841] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jan2025 04:26:50.828] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jan2025 04:26:50.842] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jan2025 04:28:21.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has reached the goal [Bone Crusher]
+[30Jan2025 04:29:56.202] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Katrice'/9024, l='ServerLevel[world]', x=33.81, y=63.00, z=116.79] died, message: 'Katrice was slain by Zombie'
+[30Jan2025 04:29:56.203] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Katrice'/9024, l='ServerLevel[world]', x=33.81, y=63.00, z=116.79] died: Katrice was slain by Zombie
+[30Jan2025 04:29:56.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja has reached the goal [Strong or Careful]
+[30Jan2025 04:29:56.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja was slain by Meu_By
+[30Jan2025 04:29:56.865] [Server thread/DEBUG] [tombstone/]: A new grave of the player Benja was created at position [x:-48, y:61, z:89, dim:minecraft:overworld]
+[30Jan2025 04:29:56.885] [Server thread/INFO] [tombstone/]: The player Benja has successfully been saved
+[30Jan2025 04:30:06.763] [Server thread/DEBUG] [twilightforest/]: Player Benja (71f92966-9de7-3a64-9d65-f06e6711b873) respawned and received items held in storage
+[30Jan2025 04:30:47.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja: Set the time to 1000]
+[30Jan2025 04:31:14.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja has reached the goal [Exorcism]
+[30Jan2025 04:31:50.828] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jan2025 04:31:50.843] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
