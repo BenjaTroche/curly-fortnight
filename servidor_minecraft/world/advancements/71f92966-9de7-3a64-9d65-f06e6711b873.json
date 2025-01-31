@@ -29,14 +29,17 @@
       "minecraft:badlands": "2025-01-31 05:12:22 +0000",
       "minecraft:beach": "2025-01-26 18:59:06 +0000",
       "minecraft:mangrove_swamp": "2025-01-26 18:54:33 +0000",
+      "minecraft:sparse_jungle": "2025-01-31 05:25:49 +0000",
       "minecraft:lukewarm_ocean": "2025-01-26 19:57:44 +0000",
       "minecraft:river": "2025-01-26 19:14:22 +0000",
+      "minecraft:stony_shore": "2025-01-31 05:24:11 +0000",
       "minecraft:dripstone_caves": "2025-01-31 04:47:05 +0000",
       "minecraft:forest": "2025-01-26 18:56:43 +0000",
       "minecraft:desert": "2025-01-26 20:12:45 +0000",
       "minecraft:ocean": "2025-01-26 19:58:37 +0000",
       "minecraft:jungle": "2025-01-31 04:44:35 +0000",
       "minecraft:windswept_savanna": "2025-01-26 19:14:34 +0000",
+      "minecraft:warm_ocean": "2025-01-31 05:24:42 +0000",
       "minecraft:savanna": "2025-01-26 18:57:38 +0000",
       "minecraft:plains": "2025-01-26 20:12:28 +0000"
     },
@@ -1145,6 +1148,7 @@
       "minecraft:skeleton": "2025-01-26 19:46:31 +0000",
       "minecraft:hoglin": "2025-01-26 20:38:15 +0000",
       "minecraft:spider": "2025-01-26 19:25:01 +0000",
+      "minecraft:creeper": "2025-01-31 05:32:39 +0000",
       "minecraft:slime": "2025-01-26 20:32:27 +0000",
       "minecraft:phantom": "2025-01-26 20:20:48 +0000",
       "minecraft:witch": "2025-01-26 19:44:00 +0000",
@@ -3712,6 +3716,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-01-31 05:30:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_granite": "2025-01-31 05:02:47 +0000"
@@ -3727,6 +3737,12 @@
   "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
       "has_pointed_dripstone": "2025-01-31 05:12:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-01-31 05:29:23 +0000"
     },
     "done": true
   },
@@ -3769,6 +3785,12 @@
   "betterdungeons:spider_dungeon": {
     "criteria": {
       "in_better_spider_dungeon": "2025-01-31 05:13:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-01-31 05:30:56 +0000"
     },
     "done": true
   },
