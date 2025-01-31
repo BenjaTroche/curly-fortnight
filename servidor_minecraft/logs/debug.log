@@ -3620,3 +3620,19 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [31Jan2025 04:35:45.146] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting group of Benja: {disabled=false, disconnected=false, uuid=71f92966-9de7-3a64-9d65-f06e6711b873, name=Benja, group=null}
 [31Jan2025 04:35:46.448] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting group of Benja: {disabled=false, disconnected=false, uuid=71f92966-9de7-3a64-9d65-f06e6711b873, name=Benja, group=67e89df2-777c-4543-aed7-55ae251dd95f}
 [31Jan2025 04:36:07.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Benja> TE ESCUCHOOOOOOOOOOOOOO
+[31Jan2025 04:38:12.131] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Jan2025 04:38:12.151] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Jan2025 04:42:24.229] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 4270ms or 85 ticks
+[31Jan2025 04:42:24.229] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2598ms or 51 ticks behind
+[31Jan2025 04:42:33.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja: Teleported Benja to Meu_By]
+[31Jan2025 04:43:14.672] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Jan2025 04:43:14.688] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Jan2025 04:44:23.140] [Worker-Main-3/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterdungeons.mixins.json into net.minecraft.server.level.WorldGenRegion
+[31Jan2025 04:44:23.300] [Worker-Main-2/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[31Jan2025 04:44:23.301] [Worker-Main-2/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[31Jan2025 04:45:52.498] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgeEventHandler@122d4624 for service interface com.blamejared.clumps.platform.IEventHelper
+[31Jan2025 04:45:52.499] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgePlatformHelper@260de0b0 for service interface com.blamejared.clumps.platform.IPlatformHelper
+[31Jan2025 04:46:21.942] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/vampirism/totem
+[31Jan2025 04:46:21.942] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/normal
+[31Jan2025 04:46:21.947] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/bounty/swamp
+[31Jan2025 04:47:15.505] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2040ms or 40 ticks
