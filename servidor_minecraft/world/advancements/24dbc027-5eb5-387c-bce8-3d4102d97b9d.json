@@ -2548,9 +2548,69 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:dark_metallurgy": {
+    "criteria": {
+      "dark_metallurgy_0": "2025-01-30 03:26:33 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/food/breeding_bone": {
+    "criteria": {
+      "has_cooked_porkchop": "2025-01-30 03:35:07 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/food/sausage": {
+    "criteria": {
+      "has_cooked_porkchop": "2025-01-30 03:35:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2025-01-30 03:36:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-01-30 03:36:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-01-30 03:36:51 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-01-30 03:55:39 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-01-30 03:55:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-01-30 04:19:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-01-30 04:19:32 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-01-30 04:28:21 +0000"
     },
     "done": true
   },
@@ -2572,12 +2632,6 @@
     },
     "done": true
   },
-  "doggytalents:recipes/food/breeding_bone": {
-    "criteria": {
-      "has_cooked_porkchop": "2025-01-30 03:35:07 +0000"
-    },
-    "done": true
-  },
   "doggytalents:recipes/decorations/guard_suit": {
     "criteria": {
       "has_string": "2025-01-30 04:30:33 +0000"
@@ -2596,12 +2650,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/clay": {
-    "criteria": {
-      "has_clay_ball": "2025-01-30 04:19:32 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-01-30 04:30:33 +0000"
@@ -2617,12 +2665,6 @@
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2025-01-30 04:30:33 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:dark_metallurgy": {
-    "criteria": {
-      "dark_metallurgy_0": "2025-01-30 03:26:33 +0000"
     },
     "done": true
   },
@@ -2656,12 +2698,6 @@
     },
     "done": true
   },
-  "tombstone:adventure/bone_crusher": {
-    "criteria": {
-      "coded_trigger": "2025-01-30 04:28:21 +0000"
-    },
-    "done": true
-  },
   "doggytalents:recipes/decorations/locator_orb_jin": {
     "criteria": {
       "has_string": "2025-01-30 04:30:33 +0000"
@@ -2686,27 +2722,9 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
-    "criteria": {
-      "has_backpack": "2025-01-30 03:55:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/brick": {
-    "criteria": {
-      "has_clay_ball": "2025-01-30 04:19:32 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2025-01-30 04:30:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
-    "criteria": {
-      "has_cod": "2025-01-30 03:36:51 +0000"
     },
     "done": true
   },
@@ -2728,21 +2746,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_cod": {
-    "criteria": {
-      "has_cod": "2025-01-30 03:36:51 +0000"
-    },
-    "done": true
-  },
   "doggytalents:recipes/decorations/locator_orb_ko": {
     "criteria": {
       "has_string": "2025-01-30 04:30:33 +0000"
-    },
-    "done": true
-  },
-  "doggytalents:recipes/food/sausage": {
-    "criteria": {
-      "has_cooked_porkchop": "2025-01-30 03:35:07 +0000"
     },
     "done": true
   },
@@ -2761,12 +2767,6 @@
   "doggytalents:recipes/decorations/locator_orb_dyable": {
     "criteria": {
       "has_string": "2025-01-30 04:30:33 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
-    "criteria": {
-      "has_backpack": "2025-01-30 03:55:39 +0000"
     },
     "done": true
   },
