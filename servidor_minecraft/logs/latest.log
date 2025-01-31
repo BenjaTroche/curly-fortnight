@@ -249,3 +249,6 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [31Jan2025 04:46:21.942] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/normal
 [31Jan2025 04:46:21.947] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/bounty/swamp
 [31Jan2025 04:47:15.505] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2040ms or 40 ticks
+[31Jan2025 04:47:53.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja: Teleported Benja to Meu_By]
+[31Jan2025 04:55:29.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja: Set own game mode to Creative Mode]
+[31Jan2025 04:55:44.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja: Set own game mode to Survival Mode]

@@ -33,6 +33,7 @@
       "minecraft:forest": "2025-01-26 18:56:34 +0000",
       "minecraft:desert": "2025-01-26 20:12:35 +0000",
       "minecraft:ocean": "2025-01-26 19:58:36 +0000",
+      "minecraft:jungle": "2025-01-31 04:44:33 +0000",
       "minecraft:windswept_savanna": "2025-01-26 19:19:43 +0000",
       "minecraft:savanna": "2025-01-26 18:58:54 +0000",
       "minecraft:plains": "2025-01-26 19:20:16 +0000"
@@ -2773,6 +2774,42 @@
   "mcwroofs:recipes/grass": {
     "criteria": {
       "has_planks": "2025-01-31 03:52:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-01-31 04:52:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2025-01-31 04:51:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2025-01-31 04:51:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_cut_sandstone": "2025-01-31 04:51:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-01-31 04:52:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-01-31 04:52:57 +0000"
     },
     "done": true
   },
