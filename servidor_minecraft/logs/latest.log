@@ -260,3 +260,13 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [31Jan2025 05:01:26.433] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/vampirism/totem
 [31Jan2025 05:01:26.438] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/sand
 [31Jan2025 05:01:26.448] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/bounty/desert
+[31Jan2025 05:10:47.133] [Worker-Main-3/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;617252372,-1332721100,-1914322941,1289992458],type:"minecraft:entity",y_offset:0.36f}}]
+[31Jan2025 05:10:47.135] [Worker-Main-3/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;1071003585,-742438505,-1885935989,1040940811],type:"minecraft:entity",y_offset:0.36f}}]
+[31Jan2025 05:11:36.723] [Worker-Main-2/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;617252372,-1332721100,-1914322941,1289992458],type:"minecraft:entity",y_offset:0.36f}}]
+[31Jan2025 05:11:36.724] [Worker-Main-2/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;1071003585,-742438505,-1885935989,1040940811],type:"minecraft:entity",y_offset:0.36f}}]
+[31Jan2025 05:12:22.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja: Teleported Benja to Meu_By]
+[31Jan2025 05:13:25.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja: Teleported Benja to Meu_By]
+[31Jan2025 05:13:26.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja has made the advancement [Cobweb Entanglement]
+[31Jan2025 05:13:40.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [Cobweb Entanglement]
+[31Jan2025 05:21:04.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja: Teleported Benja to Meu_By]
+[31Jan2025 05:22:20.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja: Teleported Meu_By to Benja]
