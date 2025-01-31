@@ -3487,6 +3487,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-01-31 05:54:20 +0000"
+    },
+    "done": true
+  },
   "doggytalents:recipes/decorations/ceremonial_garb": {
     "criteria": {
       "has_lead": "2025-01-31 05:34:14 +0000"
@@ -3767,6 +3773,12 @@
     "criteria": {
       "has_sherd": "2025-01-31 04:58:16 +0000",
       "desert_well": "2025-01-31 04:58:09 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:double_trouble": {
+    "criteria": {
+      "double_trouble_0": "2025-01-31 06:01:53 +0000"
     },
     "done": true
   },
