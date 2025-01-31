@@ -252,3 +252,11 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [31Jan2025 04:47:53.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja: Teleported Benja to Meu_By]
 [31Jan2025 04:55:29.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja: Set own game mode to Creative Mode]
 [31Jan2025 04:55:44.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja: Set own game mode to Survival Mode]
+[31Jan2025 04:58:16.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja has made the advancement [Respecting the Remnants]
+[31Jan2025 05:00:20.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja has made the advancement [Best Friends Forever]
+[31Jan2025 05:01:10.831] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/bounty/swamp
+[31Jan2025 05:01:10.831] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/normal
+[31Jan2025 05:01:10.832] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/vampirism/totem
+[31Jan2025 05:01:26.433] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/vampirism/totem
+[31Jan2025 05:01:26.438] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/sand
+[31Jan2025 05:01:26.448] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/bounty/desert
