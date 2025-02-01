@@ -3654,3 +3654,31 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [01Feb2025 02:48:21.800] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13mhed4kt6v2n]: Consuming argument ``
 [01Feb2025 02:48:50.353] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zqjq9y24kxk8]: started parsing
 [01Feb2025 02:48:50.353] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zqjq9y24kxk8]: Finished looking at arguments. Finalizing command.
+[01Feb2025 02:49:46.794] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Feb2025 02:49:46.809] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Feb2025 02:52:40.127] [Server thread/DEBUG] [mixin/]: Mixing accessors.item.AccessorCooldownInstance from bookshelf.common.mixins.json into net.minecraft.world.item.ItemCooldowns$CooldownInstance
+[01Feb2025 02:53:02.061] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xrtc3jl4w1y0]: started parsing
+[01Feb2025 02:53:02.061] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xrtc3jl4w1y0]: Consuming argument `help`
+[01Feb2025 02:53:02.061] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xrtc3jl4w1y0]: Finished looking at arguments. Finalizing command.
+[01Feb2025 02:53:02.066] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0y03syem41qyk]: started parsing
+[01Feb2025 02:53:02.066] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0y03syem41qyk]: Consuming argument `help`
+[01Feb2025 02:53:02.067] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0y03syem41qyk]: Finished looking at arguments. Finalizing command.
+[01Feb2025 02:53:06.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja: Set own game mode to Survival Mode]
+[01Feb2025 02:53:23.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja: Set own game mode to Creative Mode]
+[01Feb2025 02:53:51.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja: Set own game mode to Survival Mode]
+[01Feb2025 02:54:46.793] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Feb2025 02:54:46.808] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Feb2025 02:55:04.830] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rte61kmerjwm]: started parsing
+[01Feb2025 02:55:04.830] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rte61kmerjwm]: Consuming argument ``
+[01Feb2025 02:55:04.830] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rte61kmerjwm]: parseRegularArgument: no arguments to attempt matching
+[01Feb2025 02:55:09.675] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0lst7gkdpykf3]: started parsing
+[01Feb2025 02:55:09.675] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0lst7gkdpykf3]: Finished looking at arguments. Finalizing command.
+[01Feb2025 02:55:09.747] [Server thread/DEBUG] [com.sk89q.worldedit.world.registry.BundledBlockData/]: Using union:/workspaces/curly-fortnight/servidor_minecraft/mods/worldedit-mod-7.2.15.jar%23211!/com/sk89q/worldedit/world/registry/blocks.120.json for bundled block data.
+[01Feb2025 02:55:51.618] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01xksrke14q03]: started parsing
+[01Feb2025 02:55:51.619] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01xksrke14q03]: Finished looking at arguments. Finalizing command.
+[01Feb2025 02:56:02.186] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xfkft93g4zja]: started parsing
+[01Feb2025 02:56:02.187] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xfkft93g4zja]: Finished looking at arguments. Finalizing command.
+[01Feb2025 02:56:26.869] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1oodk9fdfy0t8]: started parsing
+[01Feb2025 02:56:26.869] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1oodk9fdfy0t8]: Finished looking at arguments. Finalizing command.
+[01Feb2025 02:56:41.585] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vs58yfenefms]: started parsing
+[01Feb2025 02:56:41.585] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vs58yfenefms]: Finished looking at arguments. Finalizing command.
