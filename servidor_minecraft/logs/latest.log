@@ -328,3 +328,11 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [01Feb2025 03:53:48.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [When in Rome]
 [01Feb2025 03:54:57.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja has made the advancement [When in Rome]
 [01Feb2025 03:59:07.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [Isn't It Iron Pick]
+[01Feb2025 04:06:36.973] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Benja moved wrongly!
+[01Feb2025 04:08:12.941] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Benja moved wrongly!
+[01Feb2025 04:13:44.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja: Set own game mode to Creative Mode]
+[01Feb2025 04:15:11.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja has made the advancement [The Journey Begins]
+[01Feb2025 04:15:27.749] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:candy_cavity at 6897 -56 -6922 in 1s
+[01Feb2025 04:16:05.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja: Set own game mode to Survival Mode]
+[01Feb2025 04:16:59.974] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2086ms or 41 ticks
+[01Feb2025 04:18:09.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja: Teleported Meu_By to Benja]
