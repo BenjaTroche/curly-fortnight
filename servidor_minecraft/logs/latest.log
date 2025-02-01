@@ -277,3 +277,5 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [01Feb2025 03:29:14.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Benja> por qué soy tramposo?
 [01Feb2025 03:29:40.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Benja> no puse ningun comando
 [01Feb2025 03:29:44.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Benja> puse una waystone nomas
+[01Feb2025 03:31:10.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Benja> perdon :(
+[01Feb2025 03:34:54.905] [ForkJoinPool-3-worker-4/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing cape for player Benja[71f92966-9de7-3a64-9d65-f06e6711b873]
