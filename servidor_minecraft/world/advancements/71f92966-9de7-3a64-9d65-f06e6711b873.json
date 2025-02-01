@@ -3911,6 +3911,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/radiant_essence": {
+    "criteria": {
+      "mussel": "2025-02-01 05:16:58 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/enter_purple_soda": {
     "criteria": {
       "in_purple_soda": "2025-02-01 05:02:54 +0000"
@@ -3950,6 +3956,12 @@
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-01 02:43:25 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/frostmint_spear": {
+    "criteria": {
+      "deep_sea_sushi_roll": "2025-02-01 05:17:27 +0000"
     },
     "done": true
   },
@@ -4055,6 +4067,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/gingerbread_crumbs": {
+    "criteria": {
+      "crumbs": "2025-02-01 05:11:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-01 02:43:25 +0000"
@@ -4088,6 +4106,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
     "criteria": {
       "has_mossy_cobblestone": "2025-02-01 03:56:56 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/licowitch_tower": {
+    "criteria": {
+      "licowitch_tower": "2025-02-01 05:09:48 +0000"
     },
     "done": true
   },
@@ -4169,6 +4193,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/gummy_rings": {
+    "criteria": {
+      "red": "2025-02-01 05:13:08 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-01 02:43:25 +0000"
@@ -4205,9 +4235,21 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/conversion_crucible": {
+    "criteria": {
+      "mussel": "2025-02-01 05:18:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-02-01 03:56:56 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/gingerbread_town": {
+    "criteria": {
+      "gingerbread_town": "2025-02-01 05:11:30 +0000"
     },
     "done": true
   },
