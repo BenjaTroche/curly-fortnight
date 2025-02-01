@@ -4117,3 +4117,12 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [01Feb2025 04:45:34.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja has made the advancement [Once Upon a Cave]
 [01Feb2025 04:49:46.820] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01Feb2025 04:49:46.834] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Feb2025 04:54:46.790] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Feb2025 04:54:46.803] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Feb2025 04:56:45.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja: Teleported Benja to Meu_By]
+[01Feb2025 04:57:04.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja has reached the goal [Pure Imagination]
+[01Feb2025 04:57:38.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has reached the goal [Pure Imagination]
+[01Feb2025 04:59:46.789] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Feb2025 04:59:46.803] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Feb2025 05:00:23.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [Caniac No More]
+[01Feb2025 05:00:51.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja has made the advancement [I Found the Coin Slot]
