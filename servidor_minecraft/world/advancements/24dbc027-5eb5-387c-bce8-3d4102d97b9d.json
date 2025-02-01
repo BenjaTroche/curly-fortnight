@@ -676,6 +676,7 @@
       "cooked_mutton": "2025-01-26 19:30:52 +0000",
       "bread": "2025-01-26 19:01:46 +0000",
       "golden_carrot": "2025-01-26 20:50:06 +0000",
+      "beetroot": "2025-02-01 02:55:59 +0000",
       "cooked_chicken": "2025-01-30 03:33:50 +0000",
       "carrot": "2025-02-01 02:33:58 +0000"
     },
@@ -878,6 +879,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:pig": "2025-02-01 03:03:25 +0000",
       "minecraft:sheep": "2025-01-26 19:15:43 +0000"
     },
     "done": false
@@ -3114,9 +3116,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-02-01 03:03:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cookie": {
     "criteria": {
       "has_cocoa": "2025-02-01 02:48:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-02-01 03:03:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-02-01 03:03:45 +0000"
     },
     "done": true
   },
@@ -3135,6 +3155,12 @@
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2025-02-01 02:26:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-02-01 03:03:45 +0000"
     },
     "done": true
   },

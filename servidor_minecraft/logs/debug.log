@@ -3682,3 +3682,12 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [01Feb2025 02:56:26.869] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1oodk9fdfy0t8]: Finished looking at arguments. Finalizing command.
 [01Feb2025 02:56:41.585] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vs58yfenefms]: started parsing
 [01Feb2025 02:56:41.585] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vs58yfenefms]: Finished looking at arguments. Finalizing command.
+[01Feb2025 02:59:46.793] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Feb2025 02:59:46.808] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Feb2025 03:03:17.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja has made the advancement [Good Demoman]
+[01Feb2025 03:04:29.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja: Set own game mode to Creative Mode]
+[01Feb2025 03:04:43.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja: Set own game mode to Survival Mode]
+[01Feb2025 03:04:46.792] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Feb2025 03:04:46.807] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Feb2025 03:09:46.801] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Feb2025 03:09:46.817] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
