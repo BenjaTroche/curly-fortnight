@@ -3639,3 +3639,18 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [01Feb2025 02:34:46.793] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01Feb2025 02:34:46.808] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [01Feb2025 02:35:25.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Benja> PISTON
+[01Feb2025 02:39:46.792] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Feb2025 02:39:46.806] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Feb2025 02:44:46.793] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Feb2025 02:44:46.808] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Feb2025 02:47:03.498] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17pa2w6fcnath]: started parsing
+[01Feb2025 02:47:03.498] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17pa2w6fcnath]: Consuming argument ``
+[01Feb2025 02:47:07.454] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0l3mvftb566x0]: started parsing
+[01Feb2025 02:47:07.454] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0l3mvftb566x0]: Consuming argument `help`
+[01Feb2025 02:47:07.454] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0l3mvftb566x0]: Finished looking at arguments. Finalizing command.
+[01Feb2025 02:47:58.818] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1i23zg2se83v9]: started parsing
+[01Feb2025 02:47:58.819] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1i23zg2se83v9]: Consuming argument ``
+[01Feb2025 02:48:21.800] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13mhed4kt6v2n]: started parsing
+[01Feb2025 02:48:21.800] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13mhed4kt6v2n]: Consuming argument ``
+[01Feb2025 02:48:50.353] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zqjq9y24kxk8]: started parsing
+[01Feb2025 02:48:50.353] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zqjq9y24kxk8]: Finished looking at arguments. Finalizing command.

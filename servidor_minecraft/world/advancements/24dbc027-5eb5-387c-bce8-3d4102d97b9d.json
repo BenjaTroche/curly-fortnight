@@ -3096,6 +3096,18 @@
     },
     "done": true
   },
+  "doggytalents:recipes/misc/rice_mill": {
+    "criteria": {
+      "has_paddy_rice_dtn": "2025-02-01 02:43:20 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/food/rice_grains": {
+    "criteria": {
+      "has_dtn_rice_wheat": "2025-02-01 02:43:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2025-02-01 02:26:54 +0000"
