@@ -38,8 +38,10 @@
       "minecraft:stony_shore": "2025-01-31 05:24:09 +0000",
       "minecraft:dripstone_caves": "2025-01-31 05:16:33 +0000",
       "minecraft:swamp": "2025-02-01 03:48:01 +0000",
+      "minecraft:cold_ocean": "2025-02-01 04:35:20 +0000",
       "minecraft:forest": "2025-01-26 18:56:34 +0000",
       "minecraft:lush_caves": "2025-02-01 03:56:27 +0000",
+      "minecraft:deep_cold_ocean": "2025-02-01 04:35:39 +0000",
       "minecraft:desert": "2025-01-26 20:12:35 +0000",
       "minecraft:windswept_forest": "2025-02-01 03:49:39 +0000",
       "minecraft:ocean": "2025-01-26 19:58:36 +0000",
@@ -3217,6 +3219,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_typhon": {
+    "criteria": {
+      "location0": "2025-02-01 04:29:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2025-02-01 03:35:02 +0000"
@@ -3226,6 +3234,12 @@
   "alexscaves:alexscaves/cave_map": {
     "criteria": {
       "cave_map": "2025-02-01 04:27:51 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2025-02-01 04:37:13 +0000"
     },
     "done": true
   },
@@ -3268,6 +3282,12 @@
   "tombstone:adventure/enchant_grave_key": {
     "criteria": {
       "has_upgraded_grave_key": "2025-02-01 03:26:18 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_voodoo_poppet": {
+    "criteria": {
+      "has_enchanted_voodoo_poppet": "2025-02-01 04:37:13 +0000"
     },
     "done": true
   },

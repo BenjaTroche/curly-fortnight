@@ -4103,3 +4103,17 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [01Feb2025 04:29:46.828] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [01Feb2025 04:29:49.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [Jaws]
 [01Feb2025 04:30:17.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja has made the advancement [Jaws]
+[01Feb2025 04:34:46.797] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Feb2025 04:34:46.812] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Feb2025 04:37:13.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [Back to childhood]
+[01Feb2025 04:37:13.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [Not even afraid of death]
+[01Feb2025 04:38:24.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja: Set own game mode to Spectator Mode]
+[01Feb2025 04:38:48.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja: Set own game mode to Survival Mode]
+[01Feb2025 04:39:46.794] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Feb2025 04:39:46.808] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Feb2025 04:43:16.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja has made the advancement [Alex's Caves]
+[01Feb2025 04:44:46.788] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Feb2025 04:44:46.804] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Feb2025 04:45:34.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja has made the advancement [Once Upon a Cave]
+[01Feb2025 04:49:46.820] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Feb2025 04:49:46.834] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

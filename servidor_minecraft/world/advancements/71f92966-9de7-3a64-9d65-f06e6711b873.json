@@ -27,6 +27,7 @@
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-02-01 04:13:31 +0000",
       "minecraft:taiga": "2025-02-01 04:13:34 +0000",
+      "minecraft:deep_ocean": "2025-02-01 04:34:08 +0000",
       "minecraft:birch_forest": "2025-02-01 04:12:26 +0000",
       "minecraft:wooded_badlands": "2025-01-31 05:21:04 +0000",
       "minecraft:badlands": "2025-01-31 05:12:22 +0000",
@@ -39,8 +40,10 @@
       "minecraft:stony_shore": "2025-01-31 05:24:11 +0000",
       "minecraft:dripstone_caves": "2025-01-31 04:47:05 +0000",
       "minecraft:swamp": "2025-02-01 03:48:01 +0000",
+      "minecraft:cold_ocean": "2025-02-01 04:35:19 +0000",
       "minecraft:forest": "2025-01-26 18:56:43 +0000",
       "minecraft:lush_caves": "2025-02-01 03:56:29 +0000",
+      "minecraft:deep_cold_ocean": "2025-02-01 04:35:38 +0000",
       "minecraft:desert": "2025-01-26 20:12:45 +0000",
       "minecraft:windswept_forest": "2025-02-01 04:15:21 +0000",
       "minecraft:ocean": "2025-01-26 19:58:37 +0000",
@@ -3937,6 +3940,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_typhon": {
+    "criteria": {
+      "location0": "2025-02-01 04:30:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-01 02:43:25 +0000"
@@ -3970,6 +3979,12 @@
   "minecraft:recipes/tools/spyglass": {
     "criteria": {
       "has_amethyst_shard": "2025-02-01 02:58:53 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-02-01 04:43:16 +0000"
     },
     "done": true
   },
@@ -4084,6 +4099,12 @@
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2025-02-01 03:56:56 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_book": {
+    "criteria": {
+      "cave_book": "2025-02-01 04:45:34 +0000"
     },
     "done": true
   },
