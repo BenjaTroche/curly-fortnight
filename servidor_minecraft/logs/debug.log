@@ -3620,3 +3620,7 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [01Feb2025 02:06:41.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Benja> fa
 [01Feb2025 02:06:50.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Benja> ya empezaron los problemas
 [01Feb2025 02:07:12.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Benja> CLARO
+[01Feb2025 02:09:46.824] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Feb2025 02:09:46.844] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Feb2025 02:14:46.807] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Feb2025 02:14:46.823] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
