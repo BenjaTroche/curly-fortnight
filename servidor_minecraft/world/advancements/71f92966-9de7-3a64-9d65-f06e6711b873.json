@@ -28,18 +28,21 @@
       "minecraft:wooded_badlands": "2025-01-31 05:21:04 +0000",
       "minecraft:badlands": "2025-01-31 05:12:22 +0000",
       "minecraft:beach": "2025-01-26 18:59:06 +0000",
+      "minecraft:dark_forest": "2025-02-01 03:40:06 +0000",
       "minecraft:mangrove_swamp": "2025-01-26 18:54:33 +0000",
       "minecraft:sparse_jungle": "2025-01-31 05:25:49 +0000",
       "minecraft:lukewarm_ocean": "2025-01-26 19:57:44 +0000",
       "minecraft:river": "2025-01-26 19:14:22 +0000",
       "minecraft:stony_shore": "2025-01-31 05:24:11 +0000",
       "minecraft:dripstone_caves": "2025-01-31 04:47:05 +0000",
+      "minecraft:swamp": "2025-02-01 03:48:01 +0000",
       "minecraft:forest": "2025-01-26 18:56:43 +0000",
       "minecraft:desert": "2025-01-26 20:12:45 +0000",
       "minecraft:ocean": "2025-01-26 19:58:37 +0000",
       "minecraft:jungle": "2025-01-31 04:44:35 +0000",
       "minecraft:windswept_savanna": "2025-01-26 19:14:34 +0000",
       "minecraft:warm_ocean": "2025-01-31 05:24:42 +0000",
+      "minecraft:old_growth_birch_forest": "2025-02-01 03:39:52 +0000",
       "minecraft:savanna": "2025-01-26 18:57:38 +0000",
       "minecraft:plains": "2025-01-26 20:12:28 +0000"
     },
@@ -3999,6 +4002,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-02-01 03:46:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/calibrated_sculk_sensor": {
     "criteria": {
       "has_amethyst_shard": "2025-02-01 02:58:53 +0000"
@@ -4059,9 +4068,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-02-01 03:46:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
       "has_amethyst_shard": "2025-02-01 02:58:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-02-01 03:46:01 +0000"
     },
     "done": true
   },
