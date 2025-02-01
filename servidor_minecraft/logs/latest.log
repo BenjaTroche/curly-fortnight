@@ -323,3 +323,8 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [01Feb2025 03:49:16.601] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-296, y=-57, z=-313}
 [01Feb2025 03:49:16.602] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-295, y=-57, z=-315}
 [01Feb2025 03:49:16.602] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-293, y=-57, z=-315}
+[01Feb2025 03:51:28.867] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Tory'/34762, l='ServerLevel[world]', x=413.87, y=70.00, z=-4224.70] died, message: 'Tory was slain by Zombie'
+[01Feb2025 03:51:28.869] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Tory'/34762, l='ServerLevel[world]', x=413.87, y=70.00, z=-4224.70] died: Tory was slain by Zombie
+[01Feb2025 03:53:48.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [When in Rome]
+[01Feb2025 03:54:57.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja has made the advancement [When in Rome]
+[01Feb2025 03:59:07.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [Isn't It Iron Pick]

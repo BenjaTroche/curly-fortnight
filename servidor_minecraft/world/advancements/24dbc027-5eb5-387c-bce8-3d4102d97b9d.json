@@ -38,6 +38,7 @@
       "minecraft:dripstone_caves": "2025-01-31 05:16:33 +0000",
       "minecraft:swamp": "2025-02-01 03:48:01 +0000",
       "minecraft:forest": "2025-01-26 18:56:34 +0000",
+      "minecraft:lush_caves": "2025-02-01 03:56:27 +0000",
       "minecraft:desert": "2025-01-26 20:12:35 +0000",
       "minecraft:windswept_forest": "2025-02-01 03:49:39 +0000",
       "minecraft:ocean": "2025-01-26 19:58:36 +0000",
@@ -678,6 +679,7 @@
     "criteria": {
       "cooked_porkchop": "2025-01-30 04:26:04 +0000",
       "cooked_mutton": "2025-01-26 19:30:52 +0000",
+      "baked_potato": "2025-02-01 03:52:32 +0000",
       "potato": "2025-02-01 03:21:30 +0000",
       "bread": "2025-01-26 19:01:46 +0000",
       "golden_apple": "2025-02-01 03:27:00 +0000",
@@ -3053,6 +3055,7 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
+      "in_better_zombie_dungeon": "2025-02-01 03:53:48 +0000",
       "in_better_spider_dungeon": "2025-01-31 05:13:40 +0000"
     },
     "done": false
@@ -3201,6 +3204,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-02-01 03:59:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2025-02-01 03:35:02 +0000"
@@ -3222,6 +3231,12 @@
   "minecraft:recipes/brewing/glistering_melon_slice": {
     "criteria": {
       "has_melon": "2025-02-01 03:33:05 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-02-01 03:53:48 +0000"
     },
     "done": true
   },

@@ -37,6 +37,7 @@
       "minecraft:dripstone_caves": "2025-01-31 04:47:05 +0000",
       "minecraft:swamp": "2025-02-01 03:48:01 +0000",
       "minecraft:forest": "2025-01-26 18:56:43 +0000",
+      "minecraft:lush_caves": "2025-02-01 03:56:29 +0000",
       "minecraft:desert": "2025-01-26 20:12:45 +0000",
       "minecraft:ocean": "2025-01-26 19:58:37 +0000",
       "minecraft:jungle": "2025-01-31 04:44:35 +0000",
@@ -3728,6 +3729,7 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
+      "in_better_zombie_dungeon": "2025-02-01 03:54:57 +0000",
       "in_better_spider_dungeon": "2025-01-31 05:13:26 +0000"
     },
     "done": false
@@ -3954,6 +3956,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-01 03:56:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/spyglass": {
     "criteria": {
       "has_amethyst_shard": "2025-02-01 02:58:53 +0000"
@@ -4008,6 +4016,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-01 03:56:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-01 03:56:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/calibrated_sculk_sensor": {
     "criteria": {
       "has_amethyst_shard": "2025-02-01 02:58:53 +0000"
@@ -4044,6 +4064,24 @@
     },
     "done": true
   },
+  "mcwpaths:recipes/mossy_cobblestone": {
+    "criteria": {
+      "has_wood": "2025-02-01 03:56:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-01 03:56:56 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-02-01 03:54:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-01 02:43:25 +0000"
@@ -4062,6 +4100,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-01 03:56:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-01 02:43:25 +0000"
@@ -4077,6 +4121,12 @@
   "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
       "has_amethyst_shard": "2025-02-01 02:58:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-01 03:56:56 +0000"
     },
     "done": true
   },
