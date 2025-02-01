@@ -674,7 +674,9 @@
     "criteria": {
       "cooked_porkchop": "2025-01-30 04:26:04 +0000",
       "cooked_mutton": "2025-01-26 19:30:52 +0000",
+      "potato": "2025-02-01 03:21:30 +0000",
       "bread": "2025-01-26 19:01:46 +0000",
+      "golden_apple": "2025-02-01 03:27:00 +0000",
       "golden_carrot": "2025-01-26 20:50:06 +0000",
       "beetroot": "2025-02-01 02:55:59 +0000",
       "cooked_chicken": "2025-01-30 03:33:50 +0000",
@@ -3186,6 +3188,24 @@
   "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
       "has_amethyst_shard": "2025-02-01 03:03:45 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/food/golden_a_five_wagyu": {
+    "criteria": {
+      "has_cooked_beef": "2025-02-01 03:21:37 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-02-01 03:22:51 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-02-01 03:26:18 +0000"
     },
     "done": true
   },

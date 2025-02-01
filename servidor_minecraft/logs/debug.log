@@ -3966,3 +3966,46 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [01Feb2025 03:19:43.504] [ForkJoinPool-3-worker-3/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/Meu_By
 [01Feb2025 03:19:46.791] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01Feb2025 03:19:46.805] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Feb2025 03:20:05.675] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 24dbc027-5eb5-387c-bce8-3d4102d97b9d
+[01Feb2025 03:20:06.677] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 24dbc027-5eb5-387c-bce8-3d4102d97b9d
+[01Feb2025 03:20:06.678] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Meu_By to connected: {disabled=false, disconnected=false, uuid=24dbc027-5eb5-387c-bce8-3d4102d97b9d, name=Meu_By, group=null}
+[01Feb2025 03:20:06.678] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Meu_By (24dbc027-5eb5-387c-bce8-3d4102d97b9d) successfully connected to voice chat
+[01Feb2025 03:20:06.975] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Meu_By: {disabled=false, disconnected=false, uuid=24dbc027-5eb5-387c-bce8-3d4102d97b9d, name=Meu_By, group=null}
+[01Feb2025 03:20:50.821] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting group of Benja: {disabled=false, disconnected=false, uuid=71f92966-9de7-3a64-9d65-f06e6711b873, name=Benja, group=null}
+[01Feb2025 03:21:25.219] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0p89v8ik71tdb]: started parsing
+[01Feb2025 03:21:25.219] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0p89v8ik71tdb]: Finished looking at arguments. Finalizing command.
+[01Feb2025 03:21:32.432] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mlq8bxjfbi8i]: started parsing
+[01Feb2025 03:21:32.432] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mlq8bxjfbi8i]: Finished looking at arguments. Finalizing command.
+[01Feb2025 03:22:51.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has reached the goal [Strong or Careful]
+[01Feb2025 03:22:51.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By withered away whilst fighting Zombie
+[01Feb2025 03:22:51.386] [Server thread/DEBUG] [tombstone/]: A new grave of the player Meu_By was created at position [x:422, y:63, z:-3407, dim:minecraft:overworld]
+[01Feb2025 03:22:51.389] [Server thread/INFO] [tombstone/]: The player Meu_By has successfully been saved
+[01Feb2025 03:22:55.658] [Server thread/DEBUG] [twilightforest/]: Player Meu_By (24dbc027-5eb5-387c-bce8-3d4102d97b9d) respawned and received items held in storage
+[01Feb2025 03:23:36.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja withered away
+[01Feb2025 03:23:37.917] [Server thread/DEBUG] [tombstone/]: A new grave of the player Benja was created at position [x:438, y:64, z:-3365, dim:minecraft:overworld]
+[01Feb2025 03:23:37.920] [Server thread/INFO] [tombstone/]: The player Benja has successfully been saved
+[01Feb2025 03:23:37.928] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3165ms or 63 ticks
+[01Feb2025 03:23:39.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By was slain by Lifestealer
+[01Feb2025 03:23:39.069] [Server thread/DEBUG] [tombstone/]: A new grave of the player Meu_By was created at position [x:432, y:64, z:-3365, dim:minecraft:overworld]
+[01Feb2025 03:23:39.077] [Server thread/INFO] [tombstone/]: The player Meu_By has successfully been saved
+[01Feb2025 03:23:40.456] [Server thread/DEBUG] [twilightforest/]: Player Meu_By (24dbc027-5eb5-387c-bce8-3d4102d97b9d) respawned and received items held in storage
+[01Feb2025 03:23:44.215] [Server thread/DEBUG] [twilightforest/]: Player Benja (71f92966-9de7-3a64-9d65-f06e6711b873) respawned and received items held in storage
+[01Feb2025 03:24:46.793] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Feb2025 03:24:46.807] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Feb2025 03:26:16.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By withered away whilst fighting Lifestealer
+[01Feb2025 03:26:16.818] [Server thread/DEBUG] [tombstone/]: A new grave of the player Meu_By was created at position [x:414, y:62, z:-3356, dim:minecraft:overworld]
+[01Feb2025 03:26:16.828] [Server thread/INFO] [tombstone/]: The player Meu_By has successfully been saved
+[01Feb2025 03:26:18.841] [Server thread/DEBUG] [twilightforest/]: Player Meu_By (24dbc027-5eb5-387c-bce8-3d4102d97b9d) respawned and received items held in storage
+[01Feb2025 03:26:18.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [The Most Useful Key]
+[01Feb2025 03:26:21.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja suffocated in a wall whilst fighting Lifestealer
+[01Feb2025 03:26:21.571] [Server thread/DEBUG] [tombstone/]: A new grave of the player Benja was created at position [x:413, y:61, z:-3366, dim:minecraft:overworld]
+[01Feb2025 03:26:21.572] [Server thread/INFO] [tombstone/]: The player Benja has successfully been saved
+[01Feb2025 03:26:23.028] [Server thread/DEBUG] [twilightforest/]: Player Benja (71f92966-9de7-3a64-9d65-f06e6711b873) respawned and received items held in storage
+[01Feb2025 03:27:15.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja has reached the goal [Horror Under the Mantle]
+[01Feb2025 03:27:32.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Benja> es tuyo
+[01Feb2025 03:28:54.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Benja> me escuchas?
+[01Feb2025 03:29:14.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Benja> por qué soy tramposo?
+[01Feb2025 03:29:40.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Benja> no puse ningun comando
+[01Feb2025 03:29:44.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Benja> puse una waystone nomas
+[01Feb2025 03:29:46.790] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Feb2025 03:29:46.804] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
