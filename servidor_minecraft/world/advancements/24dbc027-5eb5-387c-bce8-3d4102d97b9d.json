@@ -3252,6 +3252,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-02-01 05:29:13 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/eat_candy_cane": {
     "criteria": {
       "eat_candy_cane": "2025-02-01 05:08:11 +0000"
@@ -3303,6 +3309,12 @@
   "minecraft:recipes/brewing/glistering_melon_slice": {
     "criteria": {
       "has_melon": "2025-02-01 03:33:05 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/gelatin": {
+    "criteria": {
+      "gelatin": "2025-02-01 05:25:00 +0000"
     },
     "done": true
   },

@@ -4154,3 +4154,20 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [01Feb2025 05:18:10.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja has made the advancement [Biome Reactors]
 [01Feb2025 05:19:46.797] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01Feb2025 05:19:46.811] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Feb2025 05:24:46.795] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Feb2025 05:24:46.808] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Feb2025 05:25:00.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [Where's Goopy?]
+[01Feb2025 05:25:16.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja: Set own game mode to Spectator Mode]
+[01Feb2025 05:26:11.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja: Set own game mode to Survival Mode]
+[01Feb2025 05:26:34.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja has made the advancement [A Day at the Fair]
+[01Feb2025 05:28:16.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja: Set own game mode to Spectator Mode]
+[01Feb2025 05:28:22.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja: Set own game mode to Survival Mode]
+[01Feb2025 05:28:27.929] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2166ms or 43 ticks
+[01Feb2025 05:28:42.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja: Teleported Meu_By to Benja]
+[01Feb2025 05:28:54.443] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2091ms or 41 ticks
+[01Feb2025 05:29:13.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [Alex's Caves]
+[01Feb2025 05:29:15.750] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2185ms or 43 ticks
+[01Feb2025 05:29:39.067] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2026ms or 40 ticks
+[01Feb2025 05:29:46.821] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Feb2025 05:29:46.835] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Feb2025 05:30:10.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [Unwrapped Candy]
