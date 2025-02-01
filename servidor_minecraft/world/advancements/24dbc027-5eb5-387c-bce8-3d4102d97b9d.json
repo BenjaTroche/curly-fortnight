@@ -3215,9 +3215,21 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/enter_purple_soda": {
+    "criteria": {
+      "in_purple_soda": "2025-02-01 05:01:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-02-01 03:59:07 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_caniac": {
+    "criteria": {
+      "killed": "2025-02-01 05:00:23 +0000"
     },
     "done": true
   },
@@ -3239,6 +3251,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/eat_candy_cane": {
+    "criteria": {
+      "eat_candy_cane": "2025-02-01 05:08:11 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/cave_map": {
     "criteria": {
       "cave_map": "2025-02-01 04:27:51 +0000"
@@ -3248,6 +3266,18 @@
   "tombstone:adventure/create_voodoo_poppet": {
     "criteria": {
       "has_voodoo_poppet": "2025-02-01 04:37:13 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/walk_on_rock_candy": {
+    "criteria": {
+      "cave_book": "2025-02-01 05:03:04 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/gingerbread_crumbs": {
+    "criteria": {
+      "crumbs": "2025-02-01 05:09:17 +0000"
     },
     "done": true
   },
@@ -3269,6 +3299,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/gummy_rings": {
+    "criteria": {
+      "red": "2025-02-01 05:02:50 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/melon": {
     "criteria": {
       "has_melon": "2025-02-01 03:33:05 +0000"
@@ -3281,6 +3317,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/eat_block_of_chocolate": {
+    "criteria": {
+      "eat_block_of_chocolate": "2025-02-01 05:02:38 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/strong_or_careful": {
     "criteria": {
       "coded_trigger": "2025-02-01 03:22:51 +0000"
@@ -3290,6 +3332,12 @@
   "tombstone:adventure/enchant_grave_key": {
     "criteria": {
       "has_upgraded_grave_key": "2025-02-01 03:26:18 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/gingerbread_town": {
+    "criteria": {
+      "gingerbread_town": "2025-02-01 05:09:05 +0000"
     },
     "done": true
   },

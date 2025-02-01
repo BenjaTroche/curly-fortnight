@@ -3911,6 +3911,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/enter_purple_soda": {
+    "criteria": {
+      "in_purple_soda": "2025-02-01 05:02:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-01 02:43:25 +0000"
@@ -3926,6 +3932,12 @@
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-01 02:43:25 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_caniac": {
+    "criteria": {
+      "killed": "2025-02-01 05:04:56 +0000"
     },
     "done": true
   },
@@ -4031,6 +4043,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/walk_on_rock_candy": {
+    "criteria": {
+      "cave_book": "2025-02-01 05:04:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-01 02:43:25 +0000"
@@ -4052,6 +4070,18 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
     "criteria": {
       "has_mossy_cobblestone": "2025-02-01 03:56:56 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_gumbeeper": {
+    "criteria": {
+      "killed": "2025-02-01 05:00:51 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/sugar_rush": {
+    "criteria": {
+      "all_effects": "2025-02-01 05:02:17 +0000"
     },
     "done": true
   },
@@ -4112,6 +4142,12 @@
   "alexscaves:alexscaves/cave_book": {
     "criteria": {
       "cave_book": "2025-02-01 04:45:34 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/caramel": {
+    "criteria": {
+      "mussel": "2025-02-01 05:06:14 +0000"
     },
     "done": true
   },
