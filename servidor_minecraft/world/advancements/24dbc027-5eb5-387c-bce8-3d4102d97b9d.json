@@ -880,7 +880,8 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:pig": "2025-02-01 03:03:25 +0000",
-      "minecraft:sheep": "2025-01-26 19:15:43 +0000"
+      "minecraft:sheep": "2025-01-26 19:15:43 +0000",
+      "minecraft:cow": "2025-02-01 03:13:11 +0000"
     },
     "done": false
   },
@@ -3098,69 +3099,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/brown_dye": {
-    "criteria": {
-      "has_cocoa_beans": "2025-02-01 02:48:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
-    "criteria": {
-      "has_iron_ore": "2025-02-01 02:54:11 +0000"
-    },
-    "done": true
-  },
-  "doggytalents:recipes/misc/rice_mill": {
-    "criteria": {
-      "has_paddy_rice_dtn": "2025-02-01 02:43:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/spyglass": {
-    "criteria": {
-      "has_amethyst_shard": "2025-02-01 03:03:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cookie": {
-    "criteria": {
-      "has_cocoa": "2025-02-01 02:48:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
-    "criteria": {
-      "has_amethyst_shard": "2025-02-01 03:03:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/tinted_glass": {
-    "criteria": {
-      "has_amethyst_shard": "2025-02-01 03:03:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
-    "criteria": {
-      "has_iron_ore": "2025-02-01 02:54:11 +0000"
-    },
-    "done": true
-  },
-  "doggytalents:recipes/food/rice_grains": {
-    "criteria": {
-      "has_dtn_rice_wheat": "2025-02-01 02:43:20 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2025-02-01 02:26:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/amethyst_block": {
-    "criteria": {
-      "has_amethyst_shard": "2025-02-01 03:03:45 +0000"
     },
     "done": true
   },
@@ -3182,9 +3123,69 @@
     },
     "done": true
   },
+  "doggytalents:recipes/misc/rice_mill": {
+    "criteria": {
+      "has_paddy_rice_dtn": "2025-02-01 02:43:20 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/food/rice_grains": {
+    "criteria": {
+      "has_dtn_rice_wheat": "2025-02-01 02:43:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-02-01 02:48:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-02-01 02:48:25 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
     "criteria": {
       "has_copper_backpack": "2025-02-01 02:51:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2025-02-01 02:54:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2025-02-01 02:54:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-02-01 03:03:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-02-01 03:03:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-02-01 03:03:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-02-01 03:03:45 +0000"
     },
     "done": true
   },

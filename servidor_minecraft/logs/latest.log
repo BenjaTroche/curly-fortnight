@@ -243,3 +243,15 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [01Feb2025 03:03:17.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benja has made the advancement [Good Demoman]
 [01Feb2025 03:04:29.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja: Set own game mode to Creative Mode]
 [01Feb2025 03:04:43.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja: Set own game mode to Survival Mode]
+[01Feb2025 03:09:55.060] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Meu_By moved too quickly! 10.161709816602354,-0.1199608614270602,-0.271570394741957
+[01Feb2025 03:15:07.117] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Meu_By lost connection: Disconnected
+[01Feb2025 03:15:07.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By left the game
+[01Feb2025 03:15:07.118] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Meu_By[24dbc027-5eb5-387c-bce8-3d4102d97b9d]
+[01Feb2025 03:15:07.121] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Meu_By
+[01Feb2025 03:19:42.331] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Meu_By[/100.86.66.124:52553] logged in with entity id 27133 at (446.67017812635714, 63.0, -3401.456228513482)
+[01Feb2025 03:19:42.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By joined the game
+[01Feb2025 03:19:42.364] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player Meu_By just logged in with id 24dbc027-5eb5-387c-bce8-3d4102d97b9d
+[01Feb2025 03:19:42.366] [ForkJoinPool-3-worker-3/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player Meu_By[24dbc027-5eb5-387c-bce8-3d4102d97b9d]
+[01Feb2025 03:19:43.226] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Meu_By (18)
+[01Feb2025 03:19:43.227] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Meu_By
+[01Feb2025 03:19:43.504] [ForkJoinPool-3-worker-3/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/Meu_By
