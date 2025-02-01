@@ -676,7 +676,8 @@
       "cooked_mutton": "2025-01-26 19:30:52 +0000",
       "bread": "2025-01-26 19:01:46 +0000",
       "golden_carrot": "2025-01-26 20:50:06 +0000",
-      "cooked_chicken": "2025-01-30 03:33:50 +0000"
+      "cooked_chicken": "2025-01-30 03:33:50 +0000",
+      "carrot": "2025-02-01 02:33:58 +0000"
     },
     "done": false
   },
@@ -3092,6 +3093,30 @@
   "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
       "has_cornflower": "2025-01-31 05:46:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-02-01 02:26:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-02-01 02:27:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-02-01 02:32:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-02-01 02:32:47 +0000"
     },
     "done": true
   },

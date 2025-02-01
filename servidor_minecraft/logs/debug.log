@@ -3631,3 +3631,11 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [01Feb2025 02:27:34.558] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=407, y=64, z=-3411} BlockPos{x=408, y=63, z=-3411}
 [01Feb2025 02:27:57.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [A Seedy Place]
 [01Feb2025 02:28:02.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja: Set own game mode to Creative Mode]
+[01Feb2025 02:29:46.793] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Feb2025 02:29:46.808] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Feb2025 02:33:03.172] [Server thread/DEBUG] [mixin/]: Mixing creativecore.GuiLabelMixin from waterframes.mixin.json into team.creative.creativecore.common.gui.controls.simple.GuiLabel
+[01Feb2025 02:33:03.176] [Server thread/DEBUG] [mixin/]: Mixing creativecore.GuiSliderMixin from waterframes.mixin.json into team.creative.creativecore.common.gui.controls.simple.GuiSlider
+[01Feb2025 02:33:03.180] [Server thread/DEBUG] [mixin/]: Mixing creativecore.CompiledTextMixin from waterframes.mixin.json into team.creative.creativecore.client.render.text.CompiledText
+[01Feb2025 02:34:46.793] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Feb2025 02:34:46.808] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Feb2025 02:35:25.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Benja> PISTON

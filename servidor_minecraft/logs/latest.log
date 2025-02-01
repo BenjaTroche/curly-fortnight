@@ -236,3 +236,4 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [01Feb2025 02:27:34.558] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=407, y=64, z=-3411} BlockPos{x=408, y=63, z=-3411}
 [01Feb2025 02:27:57.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meu_By has made the advancement [A Seedy Place]
 [01Feb2025 02:28:02.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Benja: Set own game mode to Creative Mode]
+[01Feb2025 02:35:25.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Benja> PISTON
